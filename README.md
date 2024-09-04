@@ -8,7 +8,7 @@
   - [Linux & SQL](https://github.com/Mrcarr419/Linux-SQL/blob/main/README.md)
   - [Risk & Vulnerability](https://github.com/Mrcarr419/Risk-Vulnerability)
   - [Audits]()
-  - [Python & Automation]()
+  - [Python & Automation](https://github.com/Mrcarr419/Python-Automation/blob/main/README.md)
 
 <h2>🐍 Python Projects</h2>
   
