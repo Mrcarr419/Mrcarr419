@@ -6,7 +6,8 @@
   - [Acitve Directory Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
 
 - <b>Python</b>
-  - [Data Science Project](
+  - [Data Science Project](https://github.com/Mrcarr419/Data-Science-with-Call-Of-Duty)
+  - 
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
 <h2>📺 Popular YouTube Videos</h2>
