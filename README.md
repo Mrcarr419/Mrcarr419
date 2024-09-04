@@ -6,7 +6,7 @@
   - [Network Traffic Analysis](https://github.com/Mrcarr419/Network-Traffic-Analysis)
   - [Acitve Directory Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
   - [Linux & SQL](https://github.com/Mrcarr419/Linux-SQL/blob/main/README.md)
-  - [Risk & Vulnerability]()
+  - [Risk & Vulnerability](https://github.com/Mrcarr419/Risk-Vulnerability)
   - [Audits]()
   - [Python & Automation]()
 
