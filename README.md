@@ -37,7 +37,7 @@
 
 [youtube]: https://www.youtube.com/c/joshmadakor
 [instagram]: https://www.instagram.com/mr_calvin2u
-[linkedin]: https://linkedin.com/in/calvin_carr
+[linkedin]: https://www.linkedin.com/in/calvin-carr
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
