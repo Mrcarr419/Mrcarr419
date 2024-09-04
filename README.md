@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Mrcarr419
-- 👀 I’m interested in learning more about coding.
-- 🌱 I’m currently learning Python.
-- 💞️ I’m looking to collaborate on anything that can help me improve in coding.
-- 📫 How to reach me mrcalvin419@outlook.com.com
+- 👀 I’m a Cybersecurity Professional.
+- 🌱 I also code Python.
+- 💞️ I’m looking to collaborate on anything that can help me improve in skills.
+- 📫 How to reach me mrcarrtech419@outlook.com
 
 <!---
 Mrcarr419/Mrcarr419 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
