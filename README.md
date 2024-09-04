@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b> Active Directory Home Lab</b>
-  - [DoS Attack Cybersecurity incident report]
+  - [Network Traffic Analysis]
   - [Acitve Directory Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
 
 <h2>🐍 Python Projects</h2>
