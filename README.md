@@ -3,11 +3,16 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b> Active Directory Home Lab</b>
-  - [Network Traffic Analysis](https://github.com/Mrcarr419/Network-Traffic-Analysis)
   - [Acitve Directory Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b> Network Traffic Analysisb</b>
+  - [Network Traffic Analysis](https://github.com/Mrcarr419/Network-Traffic-Analysis)
+- <b> Linux & SQL</b>
   - [Linux & SQL](https://github.com/Mrcarr419/Linux-SQL/blob/main/README.md)
+- <b> Risk & Vulnerability</b>
   - [Risk & Vulnerability](https://github.com/Mrcarr419/Risk-Vulnerability)
+- <b> Audits</b>
   - [Audits](https://github.com/Mrcarr419/Audits/blob/main/README.md)
+- <b> Automation with Python </b>
   - [Python & Automation](https://github.com/Mrcarr419/Python-Automation/blob/main/README.md)
 
 <h2>🐍 Python Projects</h2>
