@@ -7,7 +7,7 @@
   - [Acitve Directory Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
   - [Linux & SQL](https://github.com/Mrcarr419/Linux-SQL/blob/main/README.md)
   - [Risk & Vulnerability](https://github.com/Mrcarr419/Risk-Vulnerability)
-  - [Audits]()
+  - [Audits](https://github.com/Mrcarr419/Audits/blob/main/README.md)
   - [Python & Automation](https://github.com/Mrcarr419/Python-Automation/blob/main/README.md)
 
 <h2>🐍 Python Projects</h2>
