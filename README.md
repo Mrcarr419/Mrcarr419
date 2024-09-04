@@ -8,6 +8,7 @@
 - <b>Python</b>
   - [Data Science Project](https://github.com/Mrcarr419/Data-Science-with-Call-Of-Duty)
   - [Weather API](https://github.com/Mrcarr419/API/edit/main/Weather%20API)
+  - [DEV Work using Python, JSON, HTML(ithub.com/Mrcarr419/Web_Dev_Work/tree/main)
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
 <h2>📺 Popular YouTube Videos</h2>
