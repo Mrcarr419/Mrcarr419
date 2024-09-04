@@ -5,6 +5,7 @@
 - <b> Active Directory Home Lab</b>
   - [Network Traffic Analysis](https://github.com/Mrcarr419/Network-Traffic-Analysis)
   - [Acitve Directory Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Linux & SQL](https://github.com/Mrcarr419/Linux-SQL/blob/main/README.md)
 
 <h2>🐍 Python Projects</h2>
   
