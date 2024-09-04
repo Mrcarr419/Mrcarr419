@@ -3,9 +3,11 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b> Active Directory Home Lab</b>
+  - [DoS Attack Cybersecurity incident report]
   - [Acitve Directory Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
 
-- <b>Python</b>
+<h2>🐍 Python Projects</h2>
+  
   - [Data Science Project](https://github.com/Mrcarr419/Data-Science-with-Call-Of-Duty)
   - [Weather API](https://github.com/Mrcarr419/API/edit/main/Weather%20API)
   - [DEV Work using Python, JSON, HTML](https://github.com/Mrcarr419/Web_Dev_Work)
