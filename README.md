@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-#- <b> Active Directory Home Lab</b>
+- <b> Active Directory Home Lab</b>
 #- [Acitve Directory Home Lab](#https://github.com/joshmadakor1/Algorithms-Practice)
 - <b> Network Traffic Analysisb</b>
   - [Network Traffic Analysis](https://github.com/Mrcarr419/Network-Traffic-Analysis)
